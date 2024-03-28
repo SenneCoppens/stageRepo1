@@ -1,0 +1,3 @@
+[submodule "SubRepo2"]
+	path = SubRepo2
+	url = file:///C:/Users/SIDSECS/GitTest/GithubTest/Repo2
